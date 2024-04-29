@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+:root{
+   --branco:var(--branco)
+   --cor-de-fundo: #00162E;
+   --fundo-senha: #00244D;
+}
